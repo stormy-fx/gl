@@ -1,0 +1,32 @@
+{
+  "guild_id": "3056923291",
+  "region": "IND",
+  "guild_name": "STORMY\u2074",
+  "guild_region": "IND",
+  "max_members": 20,
+  "guild_level": 1,
+  "current_members": 14,
+  "details": {
+    "AutoApprovalStatus": "ON",
+    "AvatarName": "LION",
+    "CreationTime": "2026-11-22 11:00:40",
+    "CurrentMembers": 14,
+    "FrameName": "BEGINNER GUILD FRAME",
+    "GuildId": 3056923291,
+    "GuildLevel": 1,
+    "GuildName": "STORMY\u2074",
+    "GuildRegion": "IND",
+    "GuildSlogan": "Welcome!",
+    "LastNoticeChangeTime": "Never",
+    "LastSloganChangeTime": "Never",
+    "MaxMembers": 20,
+    "MinBrRank": "Default",
+    "MinCsRank": "Default",
+    "MinLevelReq": 0,
+    "TotalActivityPoints": 196,
+    "WeeklyActivityPoints": 196,
+    "last_updated": "2026-11-22 14:07:36",
+    "status": "success"
+  },
+  "updated_at": 1795356457
+}
